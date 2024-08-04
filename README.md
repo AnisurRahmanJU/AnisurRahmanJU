@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @AnisurRahmanJU
+- 👀 I’m interested in Programming and IT.
+- 🌱 I’m currently learning Full Stack Developer.
+- 💞️ I’m looking to collaborate on Programming24 School
+- 📫 How to reach me - Programming24 School
+- ⚡ Fun fact: I am founder of Bangla C Lang.
