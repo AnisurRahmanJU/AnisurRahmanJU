@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnisurRahmanJU
 - 👀 I’m interested in Programming and IT.
-- 🌱 I’m currently working at Full Stack Developer.
+- 🌱 I’m currently working at CEO & Programmer Cum IT Specialist at Programming24 School.
 - 💞️ I’m looking to collaborate on Programming24 School
 - 📫 How to reach me - Programming24 School
 - ⚡ Fun fact: I am founder of Bangla C Lang.
