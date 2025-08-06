@@ -3,4 +3,4 @@
 - 🌱 I’m currently working at Head of IT at Programming24 School.
 - 💞️ I’m looking to collaborate on Programming24 School.
 - 📫 How to reach me - Programming24 School.
-- ⚡ Fun fact: I am founder of Bangla Programming Languages.
+- ⚡ Fun fact: I am a developer of Bangla Programming Languages.
