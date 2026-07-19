@@ -10,7 +10,7 @@
 
 </div>
 
-### 🛠️ Tech Stack & Tools
+## Tech Tools
 
 <div align="center">
 
