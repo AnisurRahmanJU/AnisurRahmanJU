@@ -33,7 +33,3 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnisurRahmanJU&theme=tokyo-night&hide_border=true)](https://github.com/AnisurRahmanJU)
 
 </div>
-
-<div align="center">
-
-## ```Teaching CSE, building visual tools, and coding in Bangla — one project at a time.```
