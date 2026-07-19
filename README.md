@@ -1,4 +1,4 @@
-## 🧑‍💻 About Me
+## About Me
 <div align="center">
 
 <!-- Animated typing intro -->
@@ -26,7 +26,7 @@
 
 </div>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnisurRahmanJU&theme=tokyonight&hide_border=true)](https://github.com/AnisurRahmanJU)
 
