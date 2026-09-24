@@ -1,5 +1,5 @@
 <div align="center">
-<center><img src = "me.png" width="200" height="220"></center
+<img src = "me.png" width="200" height="220">
 
 <!-- Animated typing intro -->
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Md.+Anisur+Rahman;Head+of+IT+%40+Programming24+School;CSE+Faculty+%7C+Visualizer+Builder;Developer+of+Bangla+Programming+Languages;Circuit+Analyst+%40+DCACLab+Simulator" alt="Typing SVG" />
