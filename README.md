@@ -1,16 +1,33 @@
-## About Me
 <div align="center">
 
 <!-- Animated typing intro -->
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Md.+Anisur+Rahman;Head+of+IT+at+Programming24+School;CSE+Faculty+%7C+Visualizer+Builder;DeveeDeveloper+of+Bangla+Programming+Languages;Circuit+Analyst+of+DCACLab+Simulator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Md.+Anisur+Rahman;Head+of+IT+%40+Programming24+School;CSE+Faculty+%7C+Visualizer+Builder;Developer+of+Bangla+Programming+Languages;Circuit+Analyst+%40+DCACLab+Simulator" alt="Typing SVG" />
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=AnisurRahmanJU&label=Profile%20Views&style=for-the-badge&color=blueviolet)](https://github.com/AnisurRahmanJU)
+<a href="https://github.com/AnisurRahmanJU">
+  <img src="https://komarev.com/ghpvc/?username=AnisurRahmanJU&label=Profile%20Views&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</a>
+<a href="https://github.com/AnisurRahmanJU?tab=followers">
+  <img src="https://img.shields.io/github/followers/AnisurRahmanJU?label=Followers&style=for-the-badge&color=2E9EF7" alt="Followers" />
+</a>
 
 </div>
 
-## Tech Tools
+<br/>
+
+## 🧑‍💻 About Me
+
+- 🏫 **Head of IT** at Programming24 School
+- 🎓 **CSE Faculty** — teaching the next generation of developers
+- 🛠️ Builder of **Visualizer** tools for learning programming concepts
+- 🇧🇩 Developer of **Bangla Programming Languages**
+- ⚡ Circuit Analyst on the **DCACLab Simulator**
+- 💬 Ask me about C, Python, JavaScript, and educational tooling
+
+<br/>
+
+## 🧰 Tech Tools
 
 <div align="center">
 
@@ -26,10 +43,19 @@
 
 </div>
 
-## GitHub Stats
+<br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnisurRahmanJU&theme=tokyonight&hide_border=true)](https://github.com/AnisurRahmanJU)
+## 📊 GitHub Stats
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnisurRahmanJU&theme=tokyo-night&hide_border=true)](https://github.com/AnisurRahmanJU)
+<div align="center">
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnisurRahmanJU&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
+
+<br/>
+
+
+
