@@ -22,7 +22,7 @@
 - 🏫 **Head of IT** at Programming24 School
 - 🎓 **CSE Faculty** — teaching the next generation of developers
 - 🛠️ Builder of **Visualizer** tools for learning programming concepts
-- 🇧🇩 Developer of **Bangla Programming Languages**
+- 🧑🏻‍💻 Developer of **Bangla Programming Languages**
 - ⚡ Circuit Analyst on the **DCACLab Simulator**
 - 💬 Ask me about C, Python, JavaScript, and educational tooling
 
