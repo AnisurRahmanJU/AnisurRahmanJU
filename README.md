@@ -1,5 +1,7 @@
 <div align="center">
-<h1 style="color:orange;">Md. Anisur Rahman</h1>
+
+<img src="header.svg" width="100%"/>
+
 <img src = "me.png" width = "200" height = "220" />
 
 <!-- Animated typing intro -->
@@ -58,6 +60,3 @@
 </div>
 
 <br/>
-
-
-
