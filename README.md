@@ -2,8 +2,6 @@
 
 <img src="header.svg" width="100%"/>
 
-<img src="water-wave.svg" width="100%"/>
-
 <img src = "me.png" width = "200" height = "220" />
 
 <!-- Animated typing intro -->
