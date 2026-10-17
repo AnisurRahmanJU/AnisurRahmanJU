@@ -9,16 +9,10 @@
 
 <br/>
 
-<a href="https://github.com/AnisurRahmanJU">
-  <img src="https://komarev.com/ghpvc/?username=AnisurRahmanJU&label=Profile%20Views&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-</a>
-<a href="https://github.com/AnisurRahmanJU?tab=followers">
-  <img src="https://img.shields.io/github/followers/AnisurRahmanJU?label=Followers&style=for-the-badge&color=2E9EF7" alt="Followers" />
-</a>
 
 </div>
 
-<br/>
+
 
 ## 🧑‍💻 About Me
 
